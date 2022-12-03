@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="" alt="Logo" width="80" height="80">
-  <h3 align="center">Maneyfy</h3>
+  <h3 align="center">Manage your Money Easily</h3>
 </p>
 
 ## _Capstone Project SIB - Dicoding Academy X Kampus Merdeka_
