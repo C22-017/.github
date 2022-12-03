@@ -18,7 +18,7 @@ Di Indonesia, sebanyak dua pertiga masyarakat merasa mengelola uang menjadi lebi
 | CRUD | User, Dompet, Transaksi, Icon |
 | Design Pattern / Architectural | Basic MVC, Monolith two layers (back end layer and front end layer) |
 | Deployment | Railway (Production), We have two main branch master and develop, master : Production only |
-| GIT Workflow | Develop/Staging : Staging and Testing |
+| GIT Workflow | Develop : Testing |
 | Output Deliverable | API yang bisa diconsume oleh Front End |
 
 ### Minimum Requirement for Front End
