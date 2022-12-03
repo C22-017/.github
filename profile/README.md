@@ -75,7 +75,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### UI/UX
 | [Figma](https://www.figma.com/)      |
 |------------|
-| <img src="https://user-images.githubusercontent.com/60727435/174691354-6a8a8794-60a1-4520-887f-0ca62bc2fd3e.svg" width="100"> |
+| <img src="https://user-images.githubusercontent.com/60727435/174691354-6a8a8794-60a1-4520-887f-0ca62bc2fd3e.svg" width="90"> |
 
 ### Back End
 | [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [PostgreSQL](https://www.postgresql.org/)      | [NodeJS](https://nodejs.org/en/)      | [Express](https://expressjs.com/)      | [Sequelize](https://sequelize.org/)      | [JWT](https://jwt.io/)      |[Jest](https://jestjs.io/)      | [Railway](https://railway.app/)      |
