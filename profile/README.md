@@ -75,12 +75,16 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### UI/UX
 | [Figma](https://www.figma.com/)      |
 |------------|
-| <img src="https://user-images.githubusercontent.com/60727435/174691354-6a8a8794-60a1-4520-887f-0ca62bc2fd3e.svg" width="90"> |
+| <img src="https://user-images.githubusercontent.com/60727435/174691354-6a8a8794-60a1-4520-887f-0ca62bc2fd3e.svg" width="100"> |
 
 ### Back End
-| [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [PostgreSQL](https://www.postgresql.org/)      | [NodeJS](https://nodejs.org/en/)      | [Express](https://expressjs.com/)      | [Sequelize](https://sequelize.org/)      | [JWT](https://jwt.io/)      |[Jest](https://jestjs.io/)      | [Railway](https://railway.app/)      |
-|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
-| <img src="https://www.computerhope.com/jargon/j/javascript.png" width="150"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="100"> | <img src="https://user-images.githubusercontent.com/60727435/174690843-9fdfac60-e4c0-4ae8-a565-8212bd720ace.png" width="150"> | <img src="https://img2.pngdownload.id/20180614/aut/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d544a3c5.7437956215290024532812.jpg" width="150"> | <img src="https://sequelize.org/img/logo.svg" width="100"> | <img src="https://jwt.io/img/pic_logo.svg" width="150"> | <img src="https://velog.velcdn.com/images/ppohee/post/b160a004-f662-4b5a-b1e0-06252ccce1c0/jestlogo.png" width="150"> | <img src="https://railway.app/brand/logo-light.png" width="150"> |
+| [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [PostgreSQL](https://www.postgresql.org/)      | [NodeJS](https://nodejs.org/en/)      | [Express](https://expressjs.com/)      | [Sequelize](https://sequelize.org/)      |
+|-------------|-------------|-------------|-------------|-------------|
+| <img src="https://www.computerhope.com/jargon/j/javascript.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="100"> | <img src="https://user-images.githubusercontent.com/60727435/174690843-9fdfac60-e4c0-4ae8-a565-8212bd720ace.png" width="100"> | <img src="https://img2.pngdownload.id/20180614/aut/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d544a3c5.7437956215290024532812.jpg" width="100"> | <img src="https://sequelize.org/img/logo.svg" width="100"> |
+
+| [JWT](https://jwt.io/)      | [Jest](https://jestjs.io/)      | [Railway](https://railway.app/)      | [Cloudinary](https://cloudinary.com/)      |
+|-------------|-------------|-------------|-------------|
+| <img src="https://jwt.io/img/pic_logo.svg" width="100"> | <img src="https://velog.velcdn.com/images/ppohee/post/b160a004-f662-4b5a-b1e0-06252ccce1c0/jestlogo.png" width="100"> | <img src="https://railway.app/brand/logo-light.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cloudinary_logo.svg" width="228"> |
 
 ## Daftar Pustaka
 <ul>
