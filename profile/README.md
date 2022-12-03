@@ -1,7 +1,7 @@
 # Maneyfy
 
 <p align="center">
-  <img src="" alt="Logo" width="80" height="80">
+  <img src="./src/public/1.svg" alt="Logo" width="100" height="100">
   <h3 align="center">Manage your Money Easily</h3>
 </p>
 
