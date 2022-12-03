@@ -32,6 +32,14 @@ Di Indonesia, sebanyak dua pertiga masyarakat merasa mengelola uang menjadi lebi
 | Testing | e2e, Karma |
 | Output Deliverable | Live web yang dapat diakses umum. |
 
+### Risk and Issue Management Plan
+
+| Strengths | Weaknesses | Opportunities | Threats |
+| ------ | ------ | ------ | ------ |
+| Kemudahan mengakses sistem dikarenakan melalui Website. | Kesulitan dalam melakukan Integration dan Deployment. | Web Application dapat dikembangkan lebih lanjut. | Terdapat beberapa aplikasi serupa. |
+| Tim saling membantu dan mengingatkan pengerjaan project. | Milestone tidak sesuai dengan schedule yang direncanakan. | Menambah pengalaman baru dalam hal membangun project. | Kompetitor seringkali memberikan fitur yang lebih le ngkap dan mudah digunakan. |
+| Mudah untuk mendapatkan referensi dalam pengerjaan project. | Waktu pengerjaan project yang singkat. |  | Ide Project memiliki kemiripan dengan tim lain. |
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people
