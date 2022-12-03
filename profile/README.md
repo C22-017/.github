@@ -79,3 +79,11 @@ Special thanks goes to our supporters.
   <a href="https://www.gitbook.com/" target="_blank" rel="noopener noreferrer"><img height="80" src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-white@2x.5330316a.webp" alt="GitBook Logo"></a></br>
   <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer"><img height="80" alt="Cypress" src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-pendidikan@2x.0ce0acdc.webp" /></a>
 </p>
+
+## Daftar Pustaka
+<ul>
+  <li><p>OJK [https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/20600]</p></li>
+  <li><p>Standard Chartered / marketeers [https://www.marketeers.com/riset-milenial-kesulitan-mengelola-keuangan-saat-pandemi]</p></li>
+  <li><p>Pengelolaan Keuangan: Literasi Keuangan dan Gaya Hidup Mahasiswa [https://ejournal.uksw.edu/ecodunamika/article/view/5227/1831]</p></li>
+  <li><p>Pengetahuan Keuangan di Kalangan Mahasiswa [https://www.researchgate.net/publication/332765692_PENGETAHUAN_KEUANGAN_DI_KALANGAN_MAHASISWA]</p></li>
+</ul>
