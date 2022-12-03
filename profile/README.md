@@ -41,9 +41,10 @@ Thanks goes to these wonderful people
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    TEAM ID C22-017 :
     <td align="center"><a href="https://github.com/fajaralf"><img src="https://avatars.githubusercontent.com/u/91827168?v=4" width="100px;" alt=""/><br /><sub><b>F478X0997 - Fajar Alfiantino</b></sub></a><br /><p style="font-size:10px">Frontend Developer</p></td>
     <td align="center"><a href="https://github.com/IrfandoAritonang"><img src="https://avatars.githubusercontent.com/u/75372211?v=4" width="100px;" alt=""/><br /><sub><b>F490X1016 - Irfando</b></sub></a><br /><p style="font-size:10px">Frontend Developer</p></td>
-    <td align="center"><a href="https://github.com/nee18"><img src="https://avatars.githubusercontent.com/u/99226926?v=4" width="100px;" alt=""/><br /><sub><b>F260Y0582 - Nely Dwi Agustin</b></sub></a><br /><p style="font-size:10px">Backend Developer</p></td>
+    <td align="center"><a href="https://github.com/nee18"><img src="https://avatars.githubusercontent.com/u/99226926?v=4" width="100px;" alt=""/><br /><sub><b>F260Y0582 - Nely Dwi Agustin</b></sub></a><br /><p style="font-size:10px" scr="https://www.linkedin.com/in/nelydwiagustin/">Backend Developer</p></td>
     <td align="center"><a href="https://github.com/TegarNH"><img src="https://avatars.githubusercontent.com/u/55114771?v=4" width="100px;" alt=""/><br /><sub><b>F009X0089 - Tegar Naufal Hanip</b></sub></a><br /><p style="font-size:10px">Backend Developer</p></td>
   </tr>
 </table>
