@@ -85,6 +85,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |-------------|-------------|-------------|-------------|-------------|
 | <img src="https://jwt.io/img/pic_logo.svg" width="100"> | <img src="https://velog.velcdn.com/images/ppohee/post/b160a004-f662-4b5a-b1e0-06252ccce1c0/jestlogo.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cloudinary_logo.svg" width="228"> | <img src="https://railway.app/brand/logo-light.png" width="100"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> |
 
+### Front End
+| [HTML](https://www.w3schools.com/html/)      | [SCSS](https://sass-lang.com/)      | [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [Eslint](https://eslint.org/)      | [Jquery](https://jquery.com/)      | [Bootstrap](https://getbootstrap.com/)      |
+|-------------|-------------|-------------|-------------|-------------|-------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="100"> | <img src="https://www.computerhope.com/jargon/j/javascript.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" width="100"> | <img src="https://static.javatpoint.com/jquerypages/images/jquery-tutorial.jpg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100"> |
+
 ## Daftar Pustaka
 <ul>
   <li><p>OJK [https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/20600]</p></li>
