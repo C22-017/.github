@@ -77,9 +77,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | <img src="https://user-images.githubusercontent.com/60727435/174691354-6a8a8794-60a1-4520-887f-0ca62bc2fd3e.svg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="100"> |
 
 ### Back End
-| [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [PostgreSQL](https://www.postgresql.org/)      | [NodeJS](https://nodejs.org/en/)      | [Express](https://expressjs.com/)      | [Sequelize](https://sequelize.org/)      |
-|-------------|-------------|-------------|-------------|-------------|
-| <img src="https://www.computerhope.com/jargon/j/javascript.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="100"> | <img src="https://user-images.githubusercontent.com/60727435/174690843-9fdfac60-e4c0-4ae8-a565-8212bd720ace.png" width="100"> | <img src="https://img2.pngdownload.id/20180614/aut/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d544a3c5.7437956215290024532812.jpg" width="100"> | <img src="https://sequelize.org/img/logo.svg" width="100"> |
+| [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [PostgreSQL](https://www.postgresql.org/)      | [Postman](https://www.postman.com/)      | [NodeJS](https://nodejs.org/en/)      | [Express](https://expressjs.com/)      | [Sequelize](https://sequelize.org/)      |
+|-------------|-------------|-------------|-------------|-------------|-------------|
+| <img src="https://www.computerhope.com/jargon/j/javascript.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="100"> | <img src="https://miro.medium.com/max/640/1*4b2A9LnOXidRaqXXU8CZMA.webp" width="100"> | <img src="https://user-images.githubusercontent.com/60727435/174690843-9fdfac60-e4c0-4ae8-a565-8212bd720ace.png" width="100"> | <img src="https://img2.pngdownload.id/20180614/aut/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d544a3c5.7437956215290024532812.jpg" width="100"> | <img src="https://sequelize.org/img/logo.svg" width="100"> |
 
 | [JWT](https://jwt.io/)      | [Jest](https://jestjs.io/)      | [Railway](https://railway.app/)      | [Cloudinary](https://cloudinary.com/)      |
 |-------------|-------------|-------------|-------------|
