@@ -69,7 +69,7 @@ Thanks goes to these wonderful people
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-## Technology
+## Our Tech Stacks
 
 ### UI/UX
 | [Figma](https://www.figma.com/)      | [Canva](https://www.canva.com/id_id/)      |
