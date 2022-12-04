@@ -94,7 +94,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |-------------|-------------|-------------|-------------|-------------|
 | <img src="https://karma-runner.github.io/assets/img/banner.png" width="100"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> | <img src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-dark-bg.png" width="228"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> | <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" width="100"> |
 
-## Daftar Pustaka
+## References
 <ul>
   <li><p>OJK [https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/20600]</p></li>
   <li><p>Standard Chartered / marketeers [https://www.marketeers.com/riset-milenial-kesulitan-mengelola-keuangan-saat-pandemi]</p></li>
