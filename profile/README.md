@@ -90,6 +90,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |-------------|-------------|-------------|-------------|-------------|-------------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="100"> | <img src="https://www.computerhope.com/jargon/j/javascript.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" width="100"> | <img src="https://static.javatpoint.com/jquerypages/images/jquery-tutorial.jpg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100"> |
 
+| [Karma](https://karma-runner.github.io/latest/index.html)      | [Github](https://github.com/)      | [Webpack](https://webpack.js.org/)      | [Github](https://github.com/)      | [Prettier](https://prettier.io/)      |
+|-------------|-------------|-------------|-------------|-------------|
+| <img src="https://karma-runner.github.io/assets/img/banner.png" width="100"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> | <img src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-dark-bg.png" width="228"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> | <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" width="100"> |
+
 ## Daftar Pustaka
 <ul>
   <li><p>OJK [https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/20600]</p></li>
