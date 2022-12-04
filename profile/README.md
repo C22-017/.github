@@ -83,7 +83,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 | [JWT](https://jwt.io/)      | [Jest](https://jestjs.io/)      | [Cloudinary](https://cloudinary.com/)      | [Railway](https://railway.app/)      | [Github](https://github.com/)      |
 |-------------|-------------|-------------|-------------|-------------|
-| <img src="https://jwt.io/img/pic_logo.svg" width="100"> | <img src="https://velog.velcdn.com/images/ppohee/post/b160a004-f662-4b5a-b1e0-06252ccce1c0/jestlogo.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cloudinary_logo.svg" width="228"> | <img src="https://railway.app/brand/logo-light.png" width="100"> | <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100"> |
+| <img src="https://jwt.io/img/pic_logo.svg" width="100"> | <img src="https://velog.velcdn.com/images/ppohee/post/b160a004-f662-4b5a-b1e0-06252ccce1c0/jestlogo.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cloudinary_logo.svg" width="228"> | <img src="https://railway.app/brand/logo-light.png" width="100"> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100"> |
 
 ## Daftar Pustaka
 <ul>
