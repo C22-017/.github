@@ -92,7 +92,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 | [Karma](https://karma-runner.github.io/latest/index.html)      | [Github](https://github.com/)      | [Webpack](https://webpack.js.org/)      | [Vercel](https://vercel.com/)      | [Prettier](https://prettier.io/)      |
 |-------------|-------------|-------------|-------------|-------------|
-| <img src="https://karma-runner.github.io/assets/img/banner.png" width="100"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> | <img src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-dark-bg.png" width="228"> | <img src="https://www.iconbolt.com/iconsets/radix-icons/vercel-logo.svg" width="100"> | <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" width="100"> |
+| <img src="https://karma-runner.github.io/assets/img/banner.png" width="100"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> | <img src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-dark-bg.png" width="228"> | <img src="https://karmanivero.us/assets/images/vercel-logo.png" width="100"> | <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" width="100"> |
 
 ## References
 <ul>
