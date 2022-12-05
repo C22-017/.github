@@ -13,7 +13,7 @@ Solusi Aplikasi Utilitas
 Maneyfy
 
 ### Deskripsi:
-Di Indonesia, sebanyak dua pertiga masyarakat merasa mengelola uang menjadi lebih sulit sejak dimulainya pandemi COVID-19. Generasi milenial berusia 25-44 tahun menjadi generasi yang paling terkena dampak pandemi dari sisi finansial. Kesulitan tersebut terjadi salah satunya dikarenakan tidak adanya pencatatan pengeluaran, baik itu pengeluaran kecil hingga besar. Oleh karena itu kami ingin membuat aplikasi yang dapat membantu orang dalam mencatat keuangan seperti pemasukkan dan pengeluaran.
+In Indonesia, as many as two-thirds of people feel that managing money has become more difficult since the start of the COVID-19 pandemic. The millennial generation aged 25-44 is the generation most affected by the pandemic from a financial standpoint. One of the reasons for this difficulty is that there is no record of expenses, be it small to large expenses. Therefore we want to create an application that can help people record finances such as income and expenses.
 
 ### Minimum Requirement for Back End
 
