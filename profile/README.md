@@ -55,10 +55,10 @@ Thanks goes to these wonderful people
 <table>
   <tr>
     TEAM ID C22-017 :
-    <td align="center"><a href="https://github.com/fajaralf"><img src="https://avatars.githubusercontent.com/u/91827168?v=4" width="100px;" alt=""/><br /><sub><b>F478X0997</b></sub></a><br /><p style="font-size:10px">Fajar Alfiantino</p></td>
-    <td align="center"><a href="https://github.com/IrfandoAritonang"><img src="https://avatars.githubusercontent.com/u/75372211?v=4" width="100px;" alt=""/><br /><sub><b>F490X1016</b></sub></a><br /><p style="font-size:10px">Irfando</p></td>
-    <td align="center"><a href="https://github.com/nee18"><img src="https://avatars.githubusercontent.com/u/99226926?v=4" width="100px;" alt=""/><br /><sub><b>F260Y0582</b></sub></a><br /><p style="font-size:10px">Nely Dwi Agustin</p></td>
-    <td align="center"><a href="https://github.com/TegarNH"><img src="https://avatars.githubusercontent.com/u/55114771?v=4" width="100px;" alt=""/><br /><sub><b>F009X0089</b></sub></a><br /><p style="font-size:10px">Tegar Naufal Hanip</p></td>
+    <td align="center"><a href="https://github.com/fajaralf"><img src="https://avatars.githubusercontent.com/u/91827168?v=4" width="100px;" alt=""/><br /><sub><b>F478X0997</b></sub></a><br /><a href="https://www.linkedin.com/in/fajaralfiantino/"><p style="font-size:10px">Fajar Alfiantino</p></td>
+    <td align="center"><a href="https://github.com/IrfandoAritonang"><img src="https://avatars.githubusercontent.com/u/75372211?v=4" width="100px;" alt=""/><br /><sub><b>F490X1016</b></sub></a><br /><a href="https://www.linkedin.com/in/irfando-irfando-331a17232/"><p style="font-size:10px">Irfando</p></td>
+    <td align="center"><a href="https://github.com/nee18"><img src="https://avatars.githubusercontent.com/u/99226926?v=4" width="100px;" alt=""/><br /><sub><b>F260Y0582</b></sub></a><br /><a href="https://www.linkedin.com/in/nelydwiagustin/"><p style="font-size:10px">Nely Dwi Agustin</p></td>
+    <td align="center"><a href="https://github.com/TegarNH"><img src="https://avatars.githubusercontent.com/u/55114771?v=4" width="100px;" alt=""/><br /><sub><b>F009X0089</b></sub></a><br /><a href="https://www.linkedin.com/in/tegarnaufalhanip/"><p style="font-size:10px">Tegar Naufal Hanip</p></td>
   </tr>
 </table>
 
