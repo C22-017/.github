@@ -20,7 +20,7 @@ In Indonesia, as many as two-thirds of people feel that managing money has becom
 | Objectives |  |
 | ------ | ------ |
 | Auth | User |
-| CRUD | User, Dompet, Transaksi, Categories, Icon |
+| CRUD | User, Wallet, Transaction, Categorie, Icon |
 | Design Pattern / Architectural | Basic MVC, Monolith two layers (back end layer and front end layer) |
 | Deployment | Railway (Production), We have two main branch master and develop, master : Production only |
 | GIT Workflow | Develop (Testing) |
@@ -33,7 +33,7 @@ In Indonesia, as many as two-thirds of people feel that managing money has becom
 | Design | Support Responsive Mobile Design |
 | Component | Custom component |
 | State Management | Native |
-| Deployment |  |
+| Deployment | Vercel (Production) |
 | Testing | e2e |
 | Output Deliverable | Publicly accessible live web |
 
