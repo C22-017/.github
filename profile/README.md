@@ -24,7 +24,7 @@ In Indonesia, as many as two-thirds of people feel that managing money has becom
 | Design Pattern / Architectural | Basic MVC, Monolith two layers (back end layer and front end layer) |
 | Deployment | Railway (Production), We have two main branch master and develop, master : Production only |
 | GIT Workflow | Develop : Testing |
-| Output Deliverable | API yang bisa diconsume oleh Front End |
+| Output Deliverable | API that can be consumed by the Front End |
 
 ### Minimum Requirement for Front End
 
@@ -35,7 +35,7 @@ In Indonesia, as many as two-thirds of people feel that managing money has becom
 | State Management | Native |
 | Deployment |  |
 | Testing | e2e, Karma |
-| Output Deliverable | Live web yang dapat diakses umum. |
+| Output Deliverable | Publicly accessible live web |
 
 ### Risk and Issue Management Plan
 
