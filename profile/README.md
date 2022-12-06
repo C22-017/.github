@@ -12,7 +12,7 @@ Utility Application Solutions
 ### Nama Aplikasi:
 Maneyfy
 
-### Deskripsi:
+### Executive Summary:
 In Indonesia, as many as two-thirds of people feel that managing money has become more difficult since the start of the COVID-19 pandemic. The millennial generation aged 25-44 is the generation most affected by the pandemic from a financial standpoint. One of the reasons for this difficulty is that there is no record of expenses, be it small to large expenses. Therefore we want to create an application that can help people record finances such as income and expenses.
 
 ### Minimum Requirement for Back End
