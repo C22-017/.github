@@ -41,10 +41,8 @@ In Indonesia, as many as two-thirds of people feel that managing money has becom
 
 | Strengths | Weaknesses | Opportunities | Threats |
 | ------ | ------ | ------ | ------ |
-| Ease of accessing the system due to through the Website. | Difficulty in performing Integration and Deployment. | Web Application can be further developed. | 
-There are several similar applications. |
-| The team helps each other and reminds us of project work. | Milestones are not in accordance with the planned schedule | 
-Add new experiences in terms of building projects. | Competitors often provide features that are more complete and easy to use. |
+| Ease of accessing the system due to through the Website. | Difficulty in performing Integration and Deployment. | Web Application can be further developed. | There are several similar applications. |
+| The team helps each other and reminds us of project work. | Milestones are not in accordance with the planned schedule | Add new experiences in terms of building projects. | Competitors often provide features that are more complete and easy to use. |
 | It's easy to get references in project work. | Short time for project work. |  | Idea Project has similarities with other teams. |
 
 ## Contributors ✨
