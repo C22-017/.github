@@ -7,7 +7,7 @@
 ## _Capstone Project SIB - Dicoding Academy X Kampus Merdeka_
 
 ### Tema:
-Solusi Aplikasi Utilitas
+Utility Application Solutions
 
 ### Nama Aplikasi:
 Maneyfy
@@ -41,9 +41,11 @@ In Indonesia, as many as two-thirds of people feel that managing money has becom
 
 | Strengths | Weaknesses | Opportunities | Threats |
 | ------ | ------ | ------ | ------ |
-| Kemudahan mengakses sistem dikarenakan melalui Website. | Kesulitan dalam melakukan Integration dan Deployment. | Web Application dapat dikembangkan lebih lanjut. | Terdapat beberapa aplikasi serupa. |
-| Tim saling membantu dan mengingatkan pengerjaan project. | Milestone tidak sesuai dengan schedule yang direncanakan. | Menambah pengalaman baru dalam hal membangun project. | Kompetitor seringkali memberikan fitur yang lebih le ngkap dan mudah digunakan. |
-| Mudah untuk mendapatkan referensi dalam pengerjaan project. | Waktu pengerjaan project yang singkat. |  | Ide Project memiliki kemiripan dengan tim lain. |
+| Ease of accessing the system due to through the Website. | Difficulty in performing Integration and Deployment. | Web Application can be further developed. | 
+There are several similar applications. |
+| The team helps each other and reminds us of project work. | Milestones are not in accordance with the planned schedule | 
+Add new experiences in terms of building projects. | Competitors often provide features that are more complete and easy to use. |
+| It's easy to get references in project work. | Short time for project work. |  | Idea Project has similarities with other teams. |
 
 ## Contributors ✨
 
