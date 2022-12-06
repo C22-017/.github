@@ -20,7 +20,7 @@ In Indonesia, as many as two-thirds of people feel that managing money has becom
 | Objectives |  |
 | ------ | ------ |
 | Auth | User |
-| CRUD | User, Dompet, Transaksi, Icon |
+| CRUD | User, Dompet, Transaksi, Kategory, Icon |
 | Design Pattern / Architectural | Basic MVC, Monolith two layers (back end layer and front end layer) |
 | Deployment | Railway (Production), We have two main branch master and develop, master : Production only |
 | GIT Workflow | Develop (Testing) |
@@ -86,13 +86,13 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | <img src="https://jwt.io/img/pic_logo.svg" width="100"> | <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cloudinary_logo.svg" width="228"> | <img src="https://railway.app/brand/logo-light.png" width="100"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> |
 
 ### Front End
-| [HTML](https://www.w3schools.com/html/)      | [SCSS](https://sass-lang.com/)      | [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [Eslint](https://eslint.org/)      | [Jquery](https://jquery.com/)      | [Bootstrap](https://getbootstrap.com/)      |
-|-------------|-------------|-------------|-------------|-------------|-------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="100"> | <img src="https://www.computerhope.com/jargon/j/javascript.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" width="100"> | <img src="https://static.javatpoint.com/jquerypages/images/jquery-tutorial.jpg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100"> |
+| [HTML](https://www.w3schools.com/html/)      | [SCSS](https://sass-lang.com/)      | [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)      | [Eslint](https://eslint.org/)      | [Bootstrap](https://getbootstrap.com/)      |
+|-------------|-------------|-------------|-------------|-------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="100"> | <img src="https://www.computerhope.com/jargon/j/javascript.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100"> |
 
-| [Karma](https://karma-runner.github.io/latest/index.html)      | [Github](https://github.com/)      | [Webpack](https://webpack.js.org/)      |[NodeJS](https://nodejs.org/en/)      | [Vercel](https://vercel.com/)      | [Prettier](https://prettier.io/)      |
-|-------------|-------------|-------------|-------------|-------------|-------------|
-| <img src="https://karma-runner.github.io/assets/img/banner.png" width="100"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> | <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" width="100"> | <img src="https://user-images.githubusercontent.com/60727435/174690843-9fdfac60-e4c0-4ae8-a565-8212bd720ace.png" width="100"> | <img src="https://karmanivero.us/assets/images/vercel-logo.png" width="100"> | <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" width="100"> |
+| [Github](https://github.com/)      | [Webpack](https://webpack.js.org/)      |[NodeJS](https://nodejs.org/en/)      | [Vercel](https://vercel.com/)      | [Prettier](https://prettier.io/)      |
+|-------------|-------------|-------------|-------------|-------------|
+| <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> | <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" width="100"> | <img src="https://user-images.githubusercontent.com/60727435/174690843-9fdfac60-e4c0-4ae8-a565-8212bd720ace.png" width="100"> | <img src="https://karmanivero.us/assets/images/vercel-logo.png" width="100"> | <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" width="100"> |
 
 ## References
 <ul>
