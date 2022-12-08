@@ -1,6 +1,9 @@
 # Maneyfy
 
 <p align="center">
+  <a href="https://github.com/C22-017">
+    <img src="src/public/5.png" alt="Logo" width="300">
+  </a>
   <h3 align="center">Manage your Money Easily</h3>
 </p>
 
