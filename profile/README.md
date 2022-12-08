@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/C22-017">
-    <img src="src/public/5.png" alt="Logo" width="300">
+    <img src="https://res.cloudinary.com/dzskwtwm7/image/upload/v1670485962/5_b2eftp.png" alt="Logo Maneyfy" width="300">
   </a>
   <h3 align="center">Manage your Money Easily</h3>
 </p>
@@ -110,7 +110,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 Special thanks goes to our supporters.
 
 <p>
-  <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer"><img height="80" src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/commons/certificate_logo.png" alt="Netlify"></a><br/>
-  <a href="https://www.gitbook.com/" target="_blank" rel="noopener noreferrer"><img height="80" src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-white@2x.5330316a.webp" alt="GitBook Logo"></a></br>
-  <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer"><img height="80" alt="Cypress" src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-pendidikan@2x.0ce0acdc.webp" /></a>
+  <a href="https://www.dicoding.com/" target="_blank" rel="noopener noreferrer"><img height="80" src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/commons/certificate_logo.png" alt="Logo Dicoding"></a><br/>
+  <a href="https://kampusmerdeka.kemdikbud.go.id/" target="_blank" rel="noopener noreferrer"><img height="80" src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-white@2x.5330316a.webp" alt="Logo Kampus Merdeka"></a></br>
+  <a href="https://www.kemdikbud.go.id/main/" target="_blank" rel="noopener noreferrer"><img height="80" alt="Logo Kemendikbud" src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-pendidikan@2x.0ce0acdc.webp" /></a>
 </p>
