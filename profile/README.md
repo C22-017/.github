@@ -95,7 +95,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 | [Bootstrap](https://getbootstrap.com/)      | [Codecept](https://codecept.io/)      | [Webpack](https://webpack.js.org/)      | [Github](https://github.com/)      | [Vercel](https://vercel.com/)      |
 |-------------|-------------|-------------|-------------|-------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100"> | <img src="https://codecept.io/logo.svg" width="100"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="228"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> | <img src="" width="100"> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100"> | <img src="https://codecept.io/logo.svg" width="100"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="228"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> | <img src="https://imgs.search.brave.com/--jfYiBCUl-qRYAZCbyFnrsefgGO8qHTSICTGLNieN4/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzVlL1Zl/cmNlbF9sb2dvX2Js/YWNrLnN2Zy81MTJw/eC1WZXJjZWxfbG9n/b19ibGFjay5zdmcu/cG5n" width="100"> |
 
 ## References
 <ul>
